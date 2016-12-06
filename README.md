@@ -1,3 +1,3 @@
 # d3aucp
 
-https://smactive.github.io/d3aucp/map.html
+https://smactive.github.io/d3aucp
