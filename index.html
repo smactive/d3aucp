@@ -17,16 +17,16 @@ var carouselPlaces = [
     "name": "Sydney",
     "state": "nsw",
     "coord": [151.210241, -33.872553],
-    "zoom": 7000
+    "zoom": 9000
   }, {
     "name": "Melbourne",
     "state": "vic",
     "coord": [144.963279, -36.814107],
-    "zoom": 7000
+    "zoom": 9000
   }, {
     "name": "Australia",
     "coord": [135.049,-28.462],
-    "zoom": 2000
+    "zoom": 1500
   }
 ]
 
@@ -144,6 +144,9 @@ function animateTo(coord, state, zoom) {
   path.projection(projection)
 
   projection.scale(zoom)
+
+  console.log(zoom)
+
   states
     .transition()
     .duration(duration)
