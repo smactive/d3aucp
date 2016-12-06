@@ -1,0 +1,1861 @@
+[{
+	"event_timestamp": "2016-12-05T07:04:31.183Z",
+	"event_location": "[-33.7586707, 151.2996844]"
+}, {
+	"event_timestamp": "2016-12-05T06:04:31.510Z",
+	"event_location": "[-33.7166549, 151.1047312]"
+}, {
+	"event_timestamp": "2016-12-05T05:04:32.758Z",
+	"event_location": "[-33.9443016, 151.2185869]"
+}, {
+	"event_timestamp": "2016-12-05T04:04:33.306Z",
+	"event_location": "[-33.9769234, 151.0426737]"
+}, {
+	"event_timestamp": "2016-12-05T03:04:33.617Z",
+	"event_location": "[-33.6418949, 151.0599677]"
+}, {
+	"event_timestamp": "2016-12-05T02:04:33.894Z",
+	"event_location": "[-33.7062263, 151.2886809]"
+}, {
+	"event_timestamp": "2016-12-05T01:04:34.181Z",
+	"event_location": "[-34.0161111, 151.1180367]"
+}, {
+	"event_timestamp": "2016-12-05T00:04:34.450Z",
+	"event_location": "[-33.7715632, 151.0105506]"
+}, {
+	"event_timestamp": "2016-12-04T23:04:34.790Z",
+	"event_location": "[-33.7032992, 150.9732162]"
+}, {
+	"event_timestamp": "2016-12-04T22:04:35.316Z",
+	"event_location": "[-33.5191035, 151.3690486]"
+}, {
+	"event_timestamp": "2016-12-04T21:04:35.902Z",
+	"event_location": "[-33.8502408, 151.2032917]"
+}, {
+	"event_timestamp": "2016-12-04T20:04:36.457Z",
+	"event_location": "[-33.5985909, 150.9533098]"
+}, {
+	"event_timestamp": "2016-12-04T19:04:37.872Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-12-04T18:04:38.198Z",
+	"event_location": "[-33.6913897, 151.3024797]"
+}, {
+	"event_timestamp": "2016-12-04T17:04:38.466Z",
+	"event_location": "[-33.6986542, 151.1155306]"
+}, {
+	"event_timestamp": "2016-12-04T16:04:38.761Z",
+	"event_location": "[-33.7117145, 151.082067]"
+}, {
+	"event_timestamp": "2016-12-04T15:04:39.367Z",
+	"event_location": "[-33.8012913, 151.2987238]"
+}, {
+	"event_timestamp": "2016-12-04T14:04:39.639Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-12-04T13:04:39.897Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-04T12:04:40.733Z",
+	"event_location": "[-33.65547, 151.0068716]"
+}, {
+	"event_timestamp": "2016-12-04T11:04:41.629Z",
+	"event_location": "[-34.0920811, 150.9957908]"
+}, {
+	"event_timestamp": "2016-12-04T10:04:41.891Z",
+	"event_location": "[-33.6113467, 151.325945]"
+}, {
+	"event_timestamp": "2016-12-04T09:04:42.471Z",
+	"event_location": "[-33.8502157, 151.1303988]"
+}, {
+	"event_timestamp": "2016-12-04T08:04:42.779Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-04T07:04:44.432Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-04T06:04:45.882Z",
+	"event_location": "[-33.616193, 151.0406896]"
+}, {
+	"event_timestamp": "2016-12-04T05:04:46.222Z",
+	"event_location": "[-33.8672694, 151.0068962]"
+}, {
+	"event_timestamp": "2016-12-04T04:04:46.497Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-12-04T03:04:46.759Z",
+	"event_location": "[-33.8155841, 151.0295544]"
+}, {
+	"event_timestamp": "2016-12-04T02:04:47.032Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-12-04T01:04:47.344Z",
+	"event_location": "[-33.7108099, 151.0904466]"
+}, {
+	"event_timestamp": "2016-12-04T00:04:47.615Z",
+	"event_location": "[-33.762532, 150.9420867]"
+}, {
+	"event_timestamp": "2016-12-03T23:04:47.898Z",
+	"event_location": "[-33.7096185, 151.2715418]"
+}, {
+	"event_timestamp": "2016-12-03T22:04:48.154Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-03T21:04:49.889Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-12-03T20:04:50.785Z",
+	"event_location": "[-33.6883146, 151.272091]"
+}, {
+	"event_timestamp": "2016-12-03T19:04:51.048Z",
+	"event_location": "[-33.5049897, 151.4230132]"
+}, {
+	"event_timestamp": "2016-12-03T18:04:51.322Z",
+	"event_location": "[-33.99297920000001, 151.1378494]"
+}, {
+	"event_timestamp": "2016-12-03T17:04:52.211Z",
+	"event_location": "[-33.9376255, 151.2113623]"
+}, {
+	"event_timestamp": "2016-12-03T16:04:52.736Z",
+	"event_location": "[-34.0302028, 151.1149111]"
+}, {
+	"event_timestamp": "2016-12-03T15:04:53.093Z",
+	"event_location": "[-33.8931405, 151.2831699]"
+}, {
+	"event_timestamp": "2016-12-03T14:04:53.869Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-12-03T13:04:54.221Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-03T12:04:54.478Z",
+	"event_location": "[-33.5858932, 151.0828155]"
+}, {
+	"event_timestamp": "2016-12-03T11:04:54.745Z",
+	"event_location": "[-33.6608002, 151.2797971]"
+}, {
+	"event_timestamp": "2016-12-03T10:04:55.370Z",
+	"event_location": "[-33.749282, 151.2380718]"
+}, {
+	"event_timestamp": "2016-12-03T09:04:56.510Z",
+	"event_location": "[-33.7050783, 151.1035041]"
+}, {
+	"event_timestamp": "2016-12-03T08:04:56.778Z",
+	"event_location": "[-33.6621701, 151.3244254]"
+}, {
+	"event_timestamp": "2016-12-03T07:04:57.315Z",
+	"event_location": "[-33.5049897, 151.4230132]"
+}, {
+	"event_timestamp": "2016-12-03T06:04:58.150Z",
+	"event_location": "[-33.9515559, 151.1005637]"
+}, {
+	"event_timestamp": "2016-12-03T05:04:59.351Z",
+	"event_location": "[-33.9405758, 151.2637305]"
+}, {
+	"event_timestamp": "2016-12-03T04:05:00.199Z",
+	"event_location": "[-33.677223, 151.1950102]"
+}, {
+	"event_timestamp": "2016-12-03T03:05:00.491Z",
+	"event_location": "[-34.0338015, 151.1688045]"
+}, {
+	"event_timestamp": "2016-12-03T02:05:00.774Z",
+	"event_location": "[-33.8813261, 151.2288065]"
+}, {
+	"event_timestamp": "2016-12-03T01:05:02.232Z",
+	"event_location": "[-33.9333991, 151.095529]"
+}, {
+	"event_timestamp": "2016-12-03T00:05:02.774Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-12-02T23:05:03.359Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-12-02T22:05:03.622Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-02T21:05:03.899Z",
+	"event_location": "[-33.5049897, 151.4230132]"
+}, {
+	"event_timestamp": "2016-12-02T20:05:04.530Z",
+	"event_location": "[-33.8400551, 151.0850824]"
+}, {
+	"event_timestamp": "2016-12-02T19:05:04.795Z",
+	"event_location": "[-33.9342529, 150.9659456]"
+}, {
+	"event_timestamp": "2016-12-02T18:05:05.326Z",
+	"event_location": "[-33.6316721, 151.0361381]"
+}, {
+	"event_timestamp": "2016-12-02T17:05:06.230Z",
+	"event_location": "[-33.6963023, 150.938787]"
+}, {
+	"event_timestamp": "2016-12-02T16:05:06.821Z",
+	"event_location": "[-33.6660957, 150.9742449]"
+}, {
+	"event_timestamp": "2016-12-02T15:05:08.289Z",
+	"event_location": "[-33.7607472, 151.0122741]"
+}, {
+	"event_timestamp": "2016-12-02T14:05:08.557Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-12-02T13:05:08.830Z",
+	"event_location": "[-33.7038305, 151.124624]"
+}, {
+	"event_timestamp": "2016-12-02T12:05:09.620Z",
+	"event_location": "[-34.0324857, 151.2108965]"
+}, {
+	"event_timestamp": "2016-12-02T11:05:09.884Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-12-02T10:05:10.242Z",
+	"event_location": "[-34.0265669, 150.968385]"
+}, {
+	"event_timestamp": "2016-12-02T09:05:10.529Z",
+	"event_location": "[-33.8643145, 151.283531]"
+}, {
+	"event_timestamp": "2016-12-02T08:05:10.793Z",
+	"event_location": "[-33.833829, 151.1728144]"
+}, {
+	"event_timestamp": "2016-12-02T07:05:11.081Z",
+	"event_location": "[-33.7117428, 151.0365686]"
+}, {
+	"event_timestamp": "2016-12-02T06:05:11.905Z",
+	"event_location": "[-34.0380462, 151.2096194]"
+}, {
+	"event_timestamp": "2016-12-02T05:05:12.839Z",
+	"event_location": "[-33.7347636, 150.989362]"
+}, {
+	"event_timestamp": "2016-12-02T04:05:13.420Z",
+	"event_location": "[-33.8115829, 151.0149334]"
+}, {
+	"event_timestamp": "2016-12-02T03:05:13.735Z",
+	"event_location": "[-33.8302105, 151.2218986]"
+}, {
+	"event_timestamp": "2016-12-02T02:05:14.261Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-12-02T01:05:14.521Z",
+	"event_location": "[-33.7096185, 151.2715418]"
+}, {
+	"event_timestamp": "2016-12-02T00:05:15.153Z",
+	"event_location": "[-34.0027681, 151.1390199]"
+}, {
+	"event_timestamp": "2016-12-01T23:05:15.678Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-12-01T22:05:16.289Z",
+	"event_location": "[-33.8012913, 151.2987238]"
+}, {
+	"event_timestamp": "2016-12-01T21:05:17.164Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-12-01T20:05:18.310Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-12-01T19:05:18.574Z",
+	"event_location": "[-33.5049897, 151.4230132]"
+}, {
+	"event_timestamp": "2016-12-01T18:05:19.456Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-12-01T17:05:19.714Z",
+	"event_location": "[-33.9117758, 151.2099616]"
+}, {
+	"event_timestamp": "2016-12-01T16:05:21.402Z",
+	"event_location": "[-33.8775262, 151.2422202]"
+}, {
+	"event_timestamp": "2016-12-01T15:05:21.764Z",
+	"event_location": "[-33.9000292, 151.1777721]"
+}, {
+	"event_timestamp": "2016-12-01T14:05:22.891Z",
+	"event_location": "[-33.821154, 150.9957774]"
+}, {
+	"event_timestamp": "2016-12-01T13:05:23.174Z",
+	"event_location": "[-33.7627799, 151.2035385]"
+}, {
+	"event_timestamp": "2016-12-01T12:05:24.037Z",
+	"event_location": "[-33.9084601, 151.018749]"
+}, {
+	"event_timestamp": "2016-12-01T11:05:24.303Z",
+	"event_location": "[-33.9512468, 151.0496603]"
+}, {
+	"event_timestamp": "2016-12-01T10:05:24.575Z",
+	"event_location": "[-33.9318366, 151.0385968]"
+}, {
+	"event_timestamp": "2016-12-01T09:05:24.836Z",
+	"event_location": "[-33.9367892, 151.2465955]"
+}, {
+	"event_timestamp": "2016-12-01T08:05:25.481Z",
+	"event_location": "[-33.8154179, 150.9800109]"
+}, {
+	"event_timestamp": "2016-12-01T07:05:25.756Z",
+	"event_location": "[-33.7176261, 151.2994001]"
+}, {
+	"event_timestamp": "2016-12-01T06:05:26.579Z",
+	"event_location": "[-33.6693908, 151.2726643]"
+}, {
+	"event_timestamp": "2016-12-01T05:05:28.092Z",
+	"event_location": "[-33.7431513, 150.938002]"
+}, {
+	"event_timestamp": "2016-12-01T04:05:28.366Z",
+	"event_location": "[-33.7438296, 151.2721601]"
+}, {
+	"event_timestamp": "2016-12-01T03:05:28.941Z",
+	"event_location": "[-33.7122873, 151.2929975]"
+}, {
+	"event_timestamp": "2016-12-01T02:05:29.502Z",
+	"event_location": "[-33.6934349, 150.9378824]"
+}, {
+	"event_timestamp": "2016-12-01T01:05:30.022Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-12-01T00:05:30.293Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-30T23:05:30.582Z",
+	"event_location": "[-33.9916962, 150.9972247]"
+}, {
+	"event_timestamp": "2016-11-30T22:05:31.171Z",
+	"event_location": "[-33.7258146, 151.1803699]"
+}, {
+	"event_timestamp": "2016-11-30T21:05:31.439Z",
+	"event_location": "[-33.7983864, 151.1100029]"
+}, {
+	"event_timestamp": "2016-11-30T20:05:31.715Z",
+	"event_location": "[-33.7213525, 151.1205767]"
+}, {
+	"event_timestamp": "2016-11-30T19:05:32.075Z",
+	"event_location": "[-33.6878624, 151.0600419]"
+}, {
+	"event_timestamp": "2016-11-30T18:05:32.984Z",
+	"event_location": "[-34.1041953, 150.9927851]"
+}, {
+	"event_timestamp": "2016-11-30T17:05:33.265Z",
+	"event_location": "[-33.6969846, 151.1047404]"
+}, {
+	"event_timestamp": "2016-11-30T16:05:33.604Z",
+	"event_location": "[-33.7853197, 150.9357278]"
+}, {
+	"event_timestamp": "2016-11-30T15:05:34.162Z",
+	"event_location": "[-33.9878634, 151.2303243]"
+}, {
+	"event_timestamp": "2016-11-30T14:05:34.682Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-30T13:05:34.945Z",
+	"event_location": "[-33.9907691, 151.0727457]"
+}, {
+	"event_timestamp": "2016-11-30T12:05:35.242Z",
+	"event_location": "[-33.9435657, 151.2050868]"
+}, {
+	"event_timestamp": "2016-11-30T11:05:35.790Z",
+	"event_location": "[-33.7834243, 151.0013081]"
+}, {
+	"event_timestamp": "2016-11-30T10:05:36.312Z",
+	"event_location": "[-33.6310339, 150.9334537]"
+}, {
+	"event_timestamp": "2016-11-30T09:05:36.621Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-30T08:05:36.889Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-11-30T07:05:38.023Z",
+	"event_location": "[-33.7323864, 151.0696822]"
+}, {
+	"event_timestamp": "2016-11-30T06:05:38.934Z",
+	"event_location": "[-33.6170238, 151.1362159]"
+}, {
+	"event_timestamp": "2016-11-30T05:05:39.468Z",
+	"event_location": "[-33.7830771, 151.2658816]"
+}, {
+	"event_timestamp": "2016-11-30T04:05:40.340Z",
+	"event_location": "[-33.5754578, 151.188938]"
+}, {
+	"event_timestamp": "2016-11-30T03:05:41.203Z",
+	"event_location": "[-34.0324857, 151.2108965]"
+}, {
+	"event_timestamp": "2016-11-30T02:05:41.464Z",
+	"event_location": "[-33.7344054, 151.1585881]"
+}, {
+	"event_timestamp": "2016-11-30T01:05:42.879Z",
+	"event_location": "[-33.6859081, 151.3082355]"
+}, {
+	"event_timestamp": "2016-11-30T00:05:43.165Z",
+	"event_location": "[-33.8566722, 150.9484697]"
+}, {
+	"event_timestamp": "2016-11-29T23:05:43.514Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-11-29T22:05:43.781Z",
+	"event_location": "[-34.0622989, 151.0055775]"
+}, {
+	"event_timestamp": "2016-11-29T21:05:44.704Z",
+	"event_location": "[-34.026246, 151.0766566]"
+}, {
+	"event_timestamp": "2016-11-29T20:05:46.387Z",
+	"event_location": "[-33.607963, 151.0305509]"
+}, {
+	"event_timestamp": "2016-11-29T19:05:46.649Z",
+	"event_location": "[-33.8964969, 150.9775009]"
+}, {
+	"event_timestamp": "2016-11-29T18:05:47.484Z",
+	"event_location": "[-33.7437482, 151.2610985]"
+}, {
+	"event_timestamp": "2016-11-29T17:05:47.766Z",
+	"event_location": "[-33.948463, 151.2419452]"
+}, {
+	"event_timestamp": "2016-11-29T16:05:48.084Z",
+	"event_location": "[-33.738838, 151.1370135]"
+}, {
+	"event_timestamp": "2016-11-29T15:05:50.061Z",
+	"event_location": "[-34.1193528, 150.9925294]"
+}, {
+	"event_timestamp": "2016-11-29T14:05:50.662Z",
+	"event_location": "[-33.7978522, 151.1981552]"
+}, {
+	"event_timestamp": "2016-11-29T13:05:51.208Z",
+	"event_location": "[-33.9324023, 151.0778343]"
+}, {
+	"event_timestamp": "2016-11-29T12:05:52.052Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-29T11:05:52.317Z",
+	"event_location": "[-33.7433833, 151.1748379]"
+}, {
+	"event_timestamp": "2016-11-29T10:05:52.965Z",
+	"event_location": "[-33.8192917, 151.0050493]"
+}, {
+	"event_timestamp": "2016-11-29T09:05:54.099Z",
+	"event_location": "[-33.7580697, 151.2392747]"
+}, {
+	"event_timestamp": "2016-11-29T08:05:54.412Z",
+	"event_location": "[-33.7474656, 151.1107985]"
+}, {
+	"event_timestamp": "2016-11-29T07:05:54.706Z",
+	"event_location": "[-33.75805450000001, 150.9697835]"
+}, {
+	"event_timestamp": "2016-11-29T06:05:54.973Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-11-29T05:05:55.233Z",
+	"event_location": "[-34.0186845, 151.2151253]"
+}, {
+	"event_timestamp": "2016-11-29T04:05:55.511Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-29T03:05:55.769Z",
+	"event_location": "[-33.9644796, 151.2614703]"
+}, {
+	"event_timestamp": "2016-11-29T02:05:56.103Z",
+	"event_location": "[-33.7751398, 151.0868065]"
+}, {
+	"event_timestamp": "2016-11-29T01:05:56.368Z",
+	"event_location": "[-33.6228819, 151.1036409]"
+}, {
+	"event_timestamp": "2016-11-29T00:05:56.638Z",
+	"event_location": "[-33.9878634, 151.2303243]"
+}, {
+	"event_timestamp": "2016-11-28T23:05:56.895Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-11-28T22:05:57.534Z",
+	"event_location": "[-33.6333886, 151.3386566]"
+}, {
+	"event_timestamp": "2016-11-28T21:05:58.052Z",
+	"event_location": "[-33.784773, 151.170735]"
+}, {
+	"event_timestamp": "2016-11-28T20:05:58.671Z",
+	"event_location": "[-33.7096185, 151.2715418]"
+}, {
+	"event_timestamp": "2016-11-28T19:05:58.946Z",
+	"event_location": "[-33.8699118, 151.1002984]"
+}, {
+	"event_timestamp": "2016-11-28T18:05:59.249Z",
+	"event_location": "[-33.6292582, 151.0603593]"
+}, {
+	"event_timestamp": "2016-11-28T17:05:59.551Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-11-28T16:05:59.815Z",
+	"event_location": "[-33.7815342, 150.9160458]"
+}, {
+	"event_timestamp": "2016-11-28T15:06:00.381Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-28T14:06:00.673Z",
+	"event_location": "[-34.1426144, 150.9919738]"
+}, {
+	"event_timestamp": "2016-11-28T13:06:01.473Z",
+	"event_location": "[-33.8853615, 151.0395419]"
+}, {
+	"event_timestamp": "2016-11-28T12:06:01.828Z",
+	"event_location": "[-33.8012913, 151.2987238]"
+}, {
+	"event_timestamp": "2016-11-28T11:06:02.099Z",
+	"event_location": "[-33.7245464, 151.1712224]"
+}, {
+	"event_timestamp": "2016-11-28T10:06:02.975Z",
+	"event_location": "[-33.8582469, 150.9617041]"
+}, {
+	"event_timestamp": "2016-11-28T09:06:03.516Z",
+	"event_location": "[-33.6208612, 150.9692339]"
+}, {
+	"event_timestamp": "2016-11-28T08:06:04.141Z",
+	"event_location": "[-33.9876255, 151.1464865]"
+}, {
+	"event_timestamp": "2016-11-28T07:06:04.940Z",
+	"event_location": "[-33.7882785, 150.9474203]"
+}, {
+	"event_timestamp": "2016-11-28T06:06:05.257Z",
+	"event_location": "[-33.709724, 151.1998428]"
+}, {
+	"event_timestamp": "2016-11-28T05:06:05.519Z",
+	"event_location": "[-33.8348187, 150.9640397]"
+}, {
+	"event_timestamp": "2016-11-28T04:06:05.789Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-28T03:06:06.426Z",
+	"event_location": "[-33.6372039, 150.9961312]"
+}, {
+	"event_timestamp": "2016-11-28T02:06:06.706Z",
+	"event_location": "[-33.7160746, 151.0678187]"
+}, {
+	"event_timestamp": "2016-11-28T01:06:07.012Z",
+	"event_location": "[-33.9274443, 151.2602952]"
+}, {
+	"event_timestamp": "2016-11-28T00:06:07.543Z",
+	"event_location": "[-33.6582552, 151.138752]"
+}, {
+	"event_timestamp": "2016-11-27T23:06:07.809Z",
+	"event_location": "[-33.8229176, 151.1766581]"
+}, {
+	"event_timestamp": "2016-11-27T22:06:08.098Z",
+	"event_location": "[-33.6956664, 151.0635959]"
+}, {
+	"event_timestamp": "2016-11-27T21:06:08.370Z",
+	"event_location": "[-33.7232289, 150.9142427]"
+}, {
+	"event_timestamp": "2016-11-27T20:06:08.686Z",
+	"event_location": "[-34.0085181, 151.1950445]"
+}, {
+	"event_timestamp": "2016-11-27T19:06:08.970Z",
+	"event_location": "[-33.7978564, 151.144454]"
+}, {
+	"event_timestamp": "2016-11-27T18:06:09.268Z",
+	"event_location": "[-33.6279369, 151.0569745]"
+}, {
+	"event_timestamp": "2016-11-27T17:06:09.533Z",
+	"event_location": "[-34.0695283, 151.1111059]"
+}, {
+	"event_timestamp": "2016-11-27T16:06:10.113Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-11-27T15:06:10.363Z",
+	"event_location": "[-33.7309299, 150.9886773]"
+}, {
+	"event_timestamp": "2016-11-27T14:06:11.524Z",
+	"event_location": "[-33.85544429999999, 151.0986244]"
+}, {
+	"event_timestamp": "2016-11-27T13:06:11.807Z",
+	"event_location": "[-33.9431886, 151.2628295]"
+}, {
+	"event_timestamp": "2016-11-27T12:06:12.134Z",
+	"event_location": "[-33.8717968, 150.9744629]"
+}, {
+	"event_timestamp": "2016-11-27T11:06:13.855Z",
+	"event_location": "[-33.8657247, 151.1481769]"
+}, {
+	"event_timestamp": "2016-11-27T10:06:14.119Z",
+	"event_location": "[-33.9405758, 151.2637305]"
+}, {
+	"event_timestamp": "2016-11-27T09:06:14.956Z",
+	"event_location": "[-33.7751513, 151.0888957]"
+}, {
+	"event_timestamp": "2016-11-27T08:06:15.555Z",
+	"event_location": "[-33.9842559, 151.1243345]"
+}, {
+	"event_timestamp": "2016-11-27T07:06:15.823Z",
+	"event_location": "[-33.6333886, 151.3386566]"
+}, {
+	"event_timestamp": "2016-11-27T06:06:16.080Z",
+	"event_location": "[-33.8659137, 151.2832264]"
+}, {
+	"event_timestamp": "2016-11-27T05:06:16.946Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-27T04:06:17.212Z",
+	"event_location": "[-33.8965468, 151.1320298]"
+}, {
+	"event_timestamp": "2016-11-27T03:06:17.847Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-11-27T02:06:18.991Z",
+	"event_location": "[-33.9275842, 151.0482556]"
+}, {
+	"event_timestamp": "2016-11-27T01:06:19.779Z",
+	"event_location": "[-33.7427008, 151.291832]"
+}, {
+	"event_timestamp": "2016-11-27T00:06:20.415Z",
+	"event_location": "[-33.8878131, 151.1558387]"
+}, {
+	"event_timestamp": "2016-11-26T23:06:21.305Z",
+	"event_location": "[-33.6250405, 151.2006927]"
+}, {
+	"event_timestamp": "2016-11-26T22:06:21.841Z",
+	"event_location": "[-33.8437704, 151.2842311]"
+}, {
+	"event_timestamp": "2016-11-26T21:06:22.417Z",
+	"event_location": "[-33.7819242, 151.1613426]"
+}, {
+	"event_timestamp": "2016-11-26T20:06:22.694Z",
+	"event_location": "[-33.7578011, 151.277502]"
+}, {
+	"event_timestamp": "2016-11-26T19:06:22.963Z",
+	"event_location": "[-33.8919365, 150.9590627]"
+}, {
+	"event_timestamp": "2016-11-26T18:06:23.583Z",
+	"event_location": "[-33.8218576, 150.9353608]"
+}, {
+	"event_timestamp": "2016-11-26T17:06:23.892Z",
+	"event_location": "[-33.6411965, 151.0072951]"
+}, {
+	"event_timestamp": "2016-11-26T16:06:24.985Z",
+	"event_location": "[-33.7242528, 151.2992556]"
+}, {
+	"event_timestamp": "2016-11-26T15:06:25.246Z",
+	"event_location": "[-33.7272656, 151.1782552]"
+}, {
+	"event_timestamp": "2016-11-26T14:06:25.513Z",
+	"event_location": "[-33.7001545, 151.1221401]"
+}, {
+	"event_timestamp": "2016-11-26T13:06:26.112Z",
+	"event_location": "[-33.7821063, 151.111065]"
+}, {
+	"event_timestamp": "2016-11-26T12:06:26.389Z",
+	"event_location": "[-33.6716284, 151.2711153]"
+}, {
+	"event_timestamp": "2016-11-26T11:06:26.669Z",
+	"event_location": "[-33.6530249, 151.1057686]"
+}, {
+	"event_timestamp": "2016-11-26T10:06:27.011Z",
+	"event_location": "[-33.7476544, 151.1049524]"
+}, {
+	"event_timestamp": "2016-11-26T09:06:27.280Z",
+	"event_location": "[-33.8986378, 151.1252042]"
+}, {
+	"event_timestamp": "2016-11-26T08:06:28.155Z",
+	"event_location": "[-34.0813864, 151.1590653]"
+}, {
+	"event_timestamp": "2016-11-26T07:06:28.975Z",
+	"event_location": "[-33.5784716, 151.0661953]"
+}, {
+	"event_timestamp": "2016-11-26T06:06:29.570Z",
+	"event_location": "[-33.7341774, 151.0160838]"
+}, {
+	"event_timestamp": "2016-11-26T05:06:29.841Z",
+	"event_location": "[-33.9483294, 150.9756553]"
+}, {
+	"event_timestamp": "2016-11-26T04:06:30.102Z",
+	"event_location": "[-33.9936385, 151.0713445]"
+}, {
+	"event_timestamp": "2016-11-26T03:06:30.438Z",
+	"event_location": "[-33.9079366, 151.1029053]"
+}, {
+	"event_timestamp": "2016-11-26T02:06:30.699Z",
+	"event_location": "[-33.7658374, 151.0801805]"
+}, {
+	"event_timestamp": "2016-11-26T01:06:31.841Z",
+	"event_location": "[-33.9684282, 151.2051551]"
+}, {
+	"event_timestamp": "2016-11-26T00:06:32.122Z",
+	"event_location": "[-34.027641, 151.0512458]"
+}, {
+	"event_timestamp": "2016-11-25T23:06:32.731Z",
+	"event_location": "[-34.0235422, 151.132909]"
+}, {
+	"event_timestamp": "2016-11-25T22:06:34.395Z",
+	"event_location": "[-33.6357231, 150.9829177]"
+}, {
+	"event_timestamp": "2016-11-25T21:06:34.674Z",
+	"event_location": "[-33.63019269999999, 151.1450342]"
+}, {
+	"event_timestamp": "2016-11-25T20:06:35.286Z",
+	"event_location": "[-33.7897845, 150.9342692]"
+}, {
+	"event_timestamp": "2016-11-25T19:06:35.898Z",
+	"event_location": "[-33.8463121, 150.9548378]"
+}, {
+	"event_timestamp": "2016-11-25T18:06:36.418Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-25T17:06:36.953Z",
+	"event_location": "[-33.9759187, 151.2546248]"
+}, {
+	"event_timestamp": "2016-11-25T16:06:38.438Z",
+	"event_location": "[-33.8980632, 151.1908296]"
+}, {
+	"event_timestamp": "2016-11-25T15:06:38.703Z",
+	"event_location": "[-34.0395885, 151.0861561]"
+}, {
+	"event_timestamp": "2016-11-25T14:06:39.259Z",
+	"event_location": "[-33.9014167, 151.0796252]"
+}, {
+	"event_timestamp": "2016-11-25T13:06:39.595Z",
+	"event_location": "[-33.840903, 151.0051514]"
+}, {
+	"event_timestamp": "2016-11-25T12:06:39.860Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-11-25T11:06:40.725Z",
+	"event_location": "[-33.6852009, 150.9206358]"
+}, {
+	"event_timestamp": "2016-11-25T10:06:41.294Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-25T09:06:41.559Z",
+	"event_location": "[-33.7341789, 151.1500092]"
+}, {
+	"event_timestamp": "2016-11-25T08:06:41.888Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-11-25T07:06:42.146Z",
+	"event_location": "[-33.8021578, 151.2299706]"
+}, {
+	"event_timestamp": "2016-11-25T06:06:42.416Z",
+	"event_location": "[-33.9077556, 151.0168101]"
+}, {
+	"event_timestamp": "2016-11-25T05:06:43.029Z",
+	"event_location": "[-33.8456469, 151.1281847]"
+}, {
+	"event_timestamp": "2016-11-25T04:06:43.318Z",
+	"event_location": "[-33.7620583, 151.1402283]"
+}, {
+	"event_timestamp": "2016-11-25T03:06:43.585Z",
+	"event_location": "[-33.8989132, 151.274118]"
+}, {
+	"event_timestamp": "2016-11-25T02:06:43.844Z",
+	"event_location": "[-33.6391053, 150.9114684]"
+}, {
+	"event_timestamp": "2016-11-25T01:06:44.175Z",
+	"event_location": "[-33.9085898, 151.0516656]"
+}, {
+	"event_timestamp": "2016-11-25T00:06:44.448Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-24T23:06:44.705Z",
+	"event_location": "[-33.7096185, 151.2715418]"
+}, {
+	"event_timestamp": "2016-11-24T22:06:44.971Z",
+	"event_location": "[-33.8732873, 151.2511611]"
+}, {
+	"event_timestamp": "2016-11-24T21:06:45.383Z",
+	"event_location": "[-33.6333886, 151.3386566]"
+}, {
+	"event_timestamp": "2016-11-24T20:06:45.645Z",
+	"event_location": "[-33.5970943, 151.1619206]"
+}, {
+	"event_timestamp": "2016-11-24T19:06:46.199Z",
+	"event_location": "[-33.7317886, 151.2789301]"
+}, {
+	"event_timestamp": "2016-11-24T18:06:46.468Z",
+	"event_location": "[-33.8449461, 151.0971723]"
+}, {
+	"event_timestamp": "2016-11-24T17:06:47.048Z",
+	"event_location": "[-34.0327347, 151.1682029]"
+}, {
+	"event_timestamp": "2016-11-24T16:06:47.318Z",
+	"event_location": "[-33.9379275, 151.0815974]"
+}, {
+	"event_timestamp": "2016-11-24T15:06:48.792Z",
+	"event_location": "[-33.8214562, 151.116377]"
+}, {
+	"event_timestamp": "2016-11-24T14:06:49.320Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-24T13:06:49.581Z",
+	"event_location": "[-33.5886104, 150.96989]"
+}, {
+	"event_timestamp": "2016-11-24T12:06:50.455Z",
+	"event_location": "[-33.9176148, 150.9957368]"
+}, {
+	"event_timestamp": "2016-11-24T11:06:50.831Z",
+	"event_location": "[-33.7278795, 151.2582062]"
+}, {
+	"event_timestamp": "2016-11-24T10:06:51.096Z",
+	"event_location": "[-33.9565521, 151.1467657]"
+}, {
+	"event_timestamp": "2016-11-24T09:06:51.656Z",
+	"event_location": "[-33.718685, 151.2827525]"
+}, {
+	"event_timestamp": "2016-11-24T08:06:51.920Z",
+	"event_location": "[-33.6190584, 150.9516423]"
+}, {
+	"event_timestamp": "2016-11-24T07:06:52.773Z",
+	"event_location": "[-33.9254114, 151.213236]"
+}, {
+	"event_timestamp": "2016-11-24T06:06:53.373Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-24T05:06:54.165Z",
+	"event_location": "[-33.7091089, 151.0177128]"
+}, {
+	"event_timestamp": "2016-11-24T04:06:54.465Z",
+	"event_location": "[-33.8596572, 151.0122371]"
+}, {
+	"event_timestamp": "2016-11-24T03:06:54.998Z",
+	"event_location": "[-33.9447241, 151.138126]"
+}, {
+	"event_timestamp": "2016-11-24T02:06:55.292Z",
+	"event_location": "[-34.1329786, 150.9947055]"
+}, {
+	"event_timestamp": "2016-11-24T01:06:56.436Z",
+	"event_location": "[-33.8442859, 151.2276099]"
+}, {
+	"event_timestamp": "2016-11-24T00:06:56.743Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-23T23:06:57.025Z",
+	"event_location": "[-33.7710098, 150.9719736]"
+}, {
+	"event_timestamp": "2016-11-23T22:06:57.895Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-23T21:06:58.158Z",
+	"event_location": "[-34.0021827, 151.0269281]"
+}, {
+	"event_timestamp": "2016-11-23T20:06:58.699Z",
+	"event_location": "[-33.7096185, 151.2715418]"
+}, {
+	"event_timestamp": "2016-11-23T19:06:59.282Z",
+	"event_location": "[-33.8012913, 151.2987238]"
+}, {
+	"event_timestamp": "2016-11-23T18:07:00.444Z",
+	"event_location": "[-33.7314566, 151.1378885]"
+}, {
+	"event_timestamp": "2016-11-23T17:07:01.042Z",
+	"event_location": "[-33.7925968, 151.2069137]"
+}, {
+	"event_timestamp": "2016-11-23T16:07:02.169Z",
+	"event_location": "[-33.9274443, 151.2602952]"
+}, {
+	"event_timestamp": "2016-11-23T15:07:02.488Z",
+	"event_location": "[-33.9948091, 151.0368122]"
+}, {
+	"event_timestamp": "2016-11-23T14:07:03.332Z",
+	"event_location": "[-33.8012913, 151.2987238]"
+}, {
+	"event_timestamp": "2016-11-23T13:07:03.602Z",
+	"event_location": "[-33.5751864, 151.0475956]"
+}, {
+	"event_timestamp": "2016-11-23T12:07:04.128Z",
+	"event_location": "[-33.9236543, 150.9179969]"
+}, {
+	"event_timestamp": "2016-11-23T11:07:05.556Z",
+	"event_location": "[-33.7553986, 150.9488574]"
+}, {
+	"event_timestamp": "2016-11-23T10:07:06.535Z",
+	"event_location": "[-34.1705282, 151.0661012]"
+}, {
+	"event_timestamp": "2016-11-23T09:07:07.322Z",
+	"event_location": "[-33.6342448, 150.9296927]"
+}, {
+	"event_timestamp": "2016-11-23T08:07:07.654Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-23T07:07:07.932Z",
+	"event_location": "[-33.6348447, 150.9980765]"
+}, {
+	"event_timestamp": "2016-11-23T06:07:08.519Z",
+	"event_location": "[-33.7089947, 151.0283051]"
+}, {
+	"event_timestamp": "2016-11-23T05:07:09.582Z",
+	"event_location": "[-33.8561303, 151.0059978]"
+}, {
+	"event_timestamp": "2016-11-23T04:07:09.852Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-23T03:07:10.460Z",
+	"event_location": "[-33.71506919999999, 151.1375551]"
+}, {
+	"event_timestamp": "2016-11-23T02:07:10.726Z",
+	"event_location": "[-33.701494, 150.9482023]"
+}, {
+	"event_timestamp": "2016-11-23T01:07:11.019Z",
+	"event_location": "[-33.59290130000001, 151.3239748]"
+}, {
+	"event_timestamp": "2016-11-23T00:07:11.599Z",
+	"event_location": "[-33.6239271, 151.3403525]"
+}, {
+	"event_timestamp": "2016-11-22T23:07:12.131Z",
+	"event_location": "[-33.9828249, 151.2527199]"
+}, {
+	"event_timestamp": "2016-11-22T22:07:12.800Z",
+	"event_location": "[-33.5191035, 151.3690486]"
+}, {
+	"event_timestamp": "2016-11-22T21:07:13.055Z",
+	"event_location": "[-33.8627635, 151.1232907]"
+}, {
+	"event_timestamp": "2016-11-22T20:07:13.616Z",
+	"event_location": "[-33.8012913, 151.2987238]"
+}, {
+	"event_timestamp": "2016-11-28T00:31:51.000+00:00",
+	"event_location": "[-37.880974930175,145.042335421886]"
+}, {
+	"event_timestamp": "2016-11-29T11:29:06.000+00:00",
+	"event_location": "[-37.7960181616535,144.972793954515]"
+}, {
+	"event_timestamp": "2016-11-29T20:21:21.000+00:00",
+	"event_location": "[-37.8278845181609,144.971335434081]"
+}, {
+	"event_timestamp": "2016-11-25T10:25:11.000+00:00",
+	"event_location": "[-37.8220073956289,144.982362430701]"
+}, {
+	"event_timestamp": "2016-11-26T21:46:00.000+00:00",
+	"event_location": "[-37.8207362576685,144.95225010323]"
+}, {
+	"event_timestamp": "2016-11-25T07:50:27.000+00:00",
+	"event_location": "[-37.809159904985,144.960516663718]"
+}, {
+	"event_timestamp": "2016-11-29T06:04:57.000+00:00",
+	"event_location": "[-37.8050263081197,144.945912133272]"
+}, {
+	"event_timestamp": "2016-11-26T13:08:37.000+00:00",
+	"event_location": "[-37.7998522559881,144.943729528125]"
+}, {
+	"event_timestamp": "2016-11-26T22:43:40.000+00:00",
+	"event_location": "[-37.8267423603232,144.948406657036]"
+}, {
+	"event_timestamp": "2016-11-26T15:58:27.000+00:00",
+	"event_location": "[-37.8077976879798,144.968608784251]"
+}, {
+	"event_timestamp": "2016-12-04T18:49:28.951Z",
+	"event_location": "[-37.75932991259154,145.03817272227676]"
+}, {
+	"event_timestamp": "2016-12-04T17:49:29.369Z",
+	"event_location": "[-37.73582191833322,144.99172658959571]"
+}, {
+	"event_timestamp": "2016-12-04T16:49:30.099Z",
+	"event_location": "[-37.7450823937459,144.9837566082739]"
+}, {
+	"event_timestamp": "2016-12-04T15:49:30.456Z",
+	"event_location": "[-37.76185753053501,145.00017087242523]"
+}, {
+	"event_timestamp": "2016-12-04T14:49:30.840Z",
+	"event_location": "[-37.746687095440976,144.99907218797142]"
+}, {
+	"event_timestamp": "2016-12-04T13:49:31.206Z",
+	"event_location": "[-37.788921819879945,144.97504721364913]"
+}, {
+	"event_timestamp": "2016-12-04T12:49:31.605Z",
+	"event_location": "[-37.771639982460016,145.0338588116963]"
+}, {
+	"event_timestamp": "2016-12-04T11:49:31.954Z",
+	"event_location": "[-37.750302385590125,144.98861696618405]"
+}, {
+	"event_timestamp": "2016-12-04T10:49:32.310Z",
+	"event_location": "[-37.83158225657296,145.02870773631705]"
+}, {
+	"event_timestamp": "2016-12-04T09:49:32.666Z",
+	"event_location": "[-37.74404493512976,144.9805973781383]"
+}, {
+	"event_timestamp": "2016-12-05T02:16:20.815Z",
+	"event_location": "[-37.6269319, 144.7784334]"
+}, {
+	"event_timestamp": "2016-12-05T01:16:21.448Z",
+	"event_location": "[-37.6301759, 145.1719296]"
+}, {
+	"event_timestamp": "2016-12-05T00:16:22.027Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-12-04T23:16:22.555Z",
+	"event_location": "[-37.5346923, 145.1817826]"
+}, {
+	"event_timestamp": "2016-12-04T22:16:22.845Z",
+	"event_location": "[-37.5789476, 144.8837158]"
+}, {
+	"event_timestamp": "2016-12-04T21:16:23.173Z",
+	"event_location": "[-38.1211837, 145.1249864]"
+}, {
+	"event_timestamp": "2016-12-04T20:16:23.432Z",
+	"event_location": "[-37.790094, 144.970518]"
+}, {
+	"event_timestamp": "2016-12-04T19:16:23.963Z",
+	"event_location": "[-37.8392091, 145.2625978]"
+}, {
+	"event_timestamp": "2016-12-04T18:16:24.963Z",
+	"event_location": "[-37.811218, 145.130559]"
+}, {
+	"event_timestamp": "2016-12-04T17:16:25.449Z",
+	"event_location": "[-37.59493459999999, 145.042479]"
+}, {
+	"event_timestamp": "2016-12-04T16:16:25.820Z",
+	"event_location": "[-37.700732, 145.199034]"
+}, {
+	"event_timestamp": "2016-12-04T15:16:26.232Z",
+	"event_location": "[-37.901364, 145.027901]"
+}, {
+	"event_timestamp": "2016-12-04T14:16:26.582Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-12-04T13:16:26.862Z",
+	"event_location": "[-37.568424, 144.9319885]"
+}, {
+	"event_timestamp": "2016-12-04T12:16:27.148Z",
+	"event_location": "[-37.671474, 145.016339]"
+}, {
+	"event_timestamp": "2016-12-04T11:16:27.425Z",
+	"event_location": "[-37.96552399999999, 145.212606]"
+}, {
+	"event_timestamp": "2016-12-04T10:16:27.691Z",
+	"event_location": "[-37.63781, 145.097034]"
+}, {
+	"event_timestamp": "2016-12-04T09:16:28.315Z",
+	"event_location": "[-37.888921, 145.175502]"
+}, {
+	"event_timestamp": "2016-12-04T08:16:28.587Z",
+	"event_location": "[-37.5621477, 144.8313835]"
+}, {
+	"event_timestamp": "2016-12-04T07:16:28.845Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-12-04T06:16:29.655Z",
+	"event_location": "[-37.77179, 145.133426]"
+}, {
+	"event_timestamp": "2016-12-04T05:16:29.982Z",
+	"event_location": "[-37.763179, 145.186781]"
+}, {
+	"event_timestamp": "2016-12-04T04:16:30.273Z",
+	"event_location": "[-37.5939584, 145.0329195]"
+}, {
+	"event_timestamp": "2016-12-04T03:16:30.547Z",
+	"event_location": "[-37.5450169, 145.2573473]"
+}, {
+	"event_timestamp": "2016-12-04T02:16:30.835Z",
+	"event_location": "[-37.930912, 144.99266]"
+}, {
+	"event_timestamp": "2016-12-04T01:16:31.137Z",
+	"event_location": "[-37.53052539999999, 144.9953988]"
+}, {
+	"event_timestamp": "2016-12-04T00:16:31.486Z",
+	"event_location": "[-37.6958938, 145.1406581]"
+}, {
+	"event_timestamp": "2016-12-03T23:16:31.785Z",
+	"event_location": "[-37.755311, 145.023148]"
+}, {
+	"event_timestamp": "2016-12-03T22:16:32.043Z",
+	"event_location": "[-37.587972, 144.879273]"
+}, {
+	"event_timestamp": "2016-12-03T21:16:32.369Z",
+	"event_location": "[-37.810576, 144.9462351]"
+}, {
+	"event_timestamp": "2016-12-03T20:16:32.943Z",
+	"event_location": "[-37.545669, 145.244754]"
+}, {
+	"event_timestamp": "2016-12-03T19:16:33.216Z",
+	"event_location": "[-37.8365476, 144.9953475]"
+}, {
+	"event_timestamp": "2016-12-03T18:16:33.477Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-12-03T17:16:33.742Z",
+	"event_location": "[-37.88700300000001, 145.138184]"
+}, {
+	"event_timestamp": "2016-12-03T16:16:34.010Z",
+	"event_location": "[-37.7217689, 145.0708752]"
+}, {
+	"event_timestamp": "2016-12-03T15:16:34.289Z",
+	"event_location": "[-37.864146, 145.236941]"
+}, {
+	"event_timestamp": "2016-12-03T14:16:34.750Z",
+	"event_location": "[-37.679578, 145.220818]"
+}, {
+	"event_timestamp": "2016-12-03T13:16:35.177Z",
+	"event_location": "[-37.63029179999999, 145.0091601]"
+}, {
+	"event_timestamp": "2016-12-03T12:16:35.765Z",
+	"event_location": "[-37.549846, 144.965216]"
+}, {
+	"event_timestamp": "2016-12-03T11:16:36.039Z",
+	"event_location": "[-37.787908, 144.790971]"
+}, {
+	"event_timestamp": "2016-12-03T10:16:36.307Z",
+	"event_location": "[-37.74965, 144.858174]"
+}, {
+	"event_timestamp": "2016-12-03T09:16:36.592Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-12-03T08:16:36.892Z",
+	"event_location": "[-37.8872934, 144.9819518]"
+}, {
+	"event_timestamp": "2016-12-03T07:16:37.150Z",
+	"event_location": "[-37.8300837, 145.1365168]"
+}, {
+	"event_timestamp": "2016-12-03T06:16:37.435Z",
+	"event_location": "[-37.713576, 144.895662]"
+}, {
+	"event_timestamp": "2016-12-03T05:16:37.763Z",
+	"event_location": "[-37.944049, 145.107214]"
+}, {
+	"event_timestamp": "2016-12-03T04:16:38.026Z",
+	"event_location": "[-37.819451, 145.040546]"
+}, {
+	"event_timestamp": "2016-12-03T03:16:38.296Z",
+	"event_location": "[-37.928174, 145.036514]"
+}, {
+	"event_timestamp": "2016-12-03T02:16:38.576Z",
+	"event_location": "[-37.746254, 144.770773]"
+}, {
+	"event_timestamp": "2016-12-03T01:16:38.851Z",
+	"event_location": "[-37.787966, 145.178283]"
+}, {
+	"event_timestamp": "2016-12-03T00:16:39.167Z",
+	"event_location": "[-37.8309155, 144.7697184]"
+}, {
+	"event_timestamp": "2016-12-02T23:16:39.479Z",
+	"event_location": "[-37.6474501, 145.1385531]"
+}, {
+	"event_timestamp": "2016-12-02T22:16:39.743Z",
+	"event_location": "[-37.810241, 145.0582271]"
+}, {
+	"event_timestamp": "2016-12-02T21:16:40.057Z",
+	"event_location": "[-37.72182, 145.161627]"
+}, {
+	"event_timestamp": "2016-12-02T20:16:40.343Z",
+	"event_location": "[-37.61928, 144.8200464]"
+}, {
+	"event_timestamp": "2016-12-02T19:16:40.617Z",
+	"event_location": "[-37.845562, 145.192255]"
+}, {
+	"event_timestamp": "2016-12-02T18:16:41.599Z",
+	"event_location": "[-37.78218, 145.101745]"
+}, {
+	"event_timestamp": "2016-12-02T17:16:41.888Z",
+	"event_location": "[-37.7388745, 145.0813437]"
+}, {
+	"event_timestamp": "2016-12-02T16:16:42.161Z",
+	"event_location": "[-37.9684054, 145.0474978]"
+}, {
+	"event_timestamp": "2016-12-02T15:16:42.446Z",
+	"event_location": "[-37.587735, 145.033095]"
+}, {
+	"event_timestamp": "2016-12-02T14:16:42.713Z",
+	"event_location": "[-38.006894, 145.235841]"
+}, {
+	"event_timestamp": "2016-12-02T13:16:43.262Z",
+	"event_location": "[-37.7050413, 144.8830269]"
+}, {
+	"event_timestamp": "2016-12-02T12:16:43.540Z",
+	"event_location": "[-37.865781, 144.669805]"
+}, {
+	"event_timestamp": "2016-12-02T11:16:43.808Z",
+	"event_location": "[-37.9684054, 145.0474978]"
+}, {
+	"event_timestamp": "2016-12-02T10:16:44.372Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-12-02T09:16:44.633Z",
+	"event_location": "[-37.9353955, 145.0287347]"
+}, {
+	"event_timestamp": "2016-12-02T08:16:44.903Z",
+	"event_location": "[-37.6081495, 145.1491448]"
+}, {
+	"event_timestamp": "2016-12-02T07:16:45.182Z",
+	"event_location": "[-37.686227, 145.182318]"
+}, {
+	"event_timestamp": "2016-12-02T06:16:45.480Z",
+	"event_location": "[-37.930912, 144.99266]"
+}, {
+	"event_timestamp": "2016-12-02T05:16:45.748Z",
+	"event_location": "[-37.961948, 144.6959789]"
+}, {
+	"event_timestamp": "2016-12-02T04:16:46.052Z",
+	"event_location": "[-37.837622, 144.9983645]"
+}, {
+	"event_timestamp": "2016-12-02T03:16:46.330Z",
+	"event_location": "[-37.810654, 145.140512]"
+}, {
+	"event_timestamp": "2016-12-02T02:16:46.978Z",
+	"event_location": "[-37.7185717, 144.7314634]"
+}, {
+	"event_timestamp": "2016-12-02T01:16:47.470Z",
+	"event_location": "[-37.5706537, 145.1962574]"
+}, {
+	"event_timestamp": "2016-12-02T00:16:47.840Z",
+	"event_location": "[-37.566336, 144.927187]"
+}, {
+	"event_timestamp": "2016-12-01T23:16:48.538Z",
+	"event_location": "[-37.72835000000001, 144.799675]"
+}, {
+	"event_timestamp": "2016-12-01T22:16:48.888Z",
+	"event_location": "[-38.05400729999999, 145.2071733]"
+}, {
+	"event_timestamp": "2016-12-01T21:16:49.221Z",
+	"event_location": "[-37.5405301, 145.2058985]"
+}, {
+	"event_timestamp": "2016-12-01T20:16:49.551Z",
+	"event_location": "[-37.61576, 145.173612]"
+}, {
+	"event_timestamp": "2016-12-01T19:16:49.901Z",
+	"event_location": "[-38.057401, 145.115567]"
+}, {
+	"event_timestamp": "2016-12-01T18:16:50.239Z",
+	"event_location": "[-37.743086, 145.0799324]"
+}, {
+	"event_timestamp": "2016-12-01T17:16:50.751Z",
+	"event_location": "[-37.6040082, 144.8060416]"
+}, {
+	"event_timestamp": "2016-12-01T16:16:51.113Z",
+	"event_location": "[-38.057401, 145.115567]"
+}, {
+	"event_timestamp": "2016-12-01T15:16:51.531Z",
+	"event_location": "[-37.634319, 144.723961]"
+}, {
+	"event_timestamp": "2016-12-01T14:16:51.909Z",
+	"event_location": "[-37.5864175, 145.0969029]"
+}, {
+	"event_timestamp": "2016-12-01T13:16:52.215Z",
+	"event_location": "[-38.106243, 145.22623]"
+}, {
+	"event_timestamp": "2016-12-01T12:16:52.496Z",
+	"event_location": "[-37.780816, 144.884718]"
+}, {
+	"event_timestamp": "2016-12-01T11:16:52.796Z",
+	"event_location": "[-37.7325344, 145.0907424]"
+}, {
+	"event_timestamp": "2016-12-01T10:16:53.071Z",
+	"event_location": "[-37.552714, 145.06527]"
+}, {
+	"event_timestamp": "2016-12-01T09:16:53.348Z",
+	"event_location": "[-37.6605887, 144.7230999]"
+}, {
+	"event_timestamp": "2016-12-01T08:16:53.906Z",
+	"event_location": "[-37.677386, 145.039494]"
+}, {
+	"event_timestamp": "2016-12-01T07:16:54.178Z",
+	"event_location": "[-37.6274172, 145.0250168]"
+}, {
+	"event_timestamp": "2016-12-01T06:16:54.451Z",
+	"event_location": "[-37.804835, 144.893425]"
+}, {
+	"event_timestamp": "2016-12-01T05:16:54.743Z",
+	"event_location": "[-37.986926, 145.23823]"
+}, {
+	"event_timestamp": "2016-12-01T04:16:55.283Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-12-01T03:16:55.539Z",
+	"event_location": "[-37.6521011, 144.7696395]"
+}, {
+	"event_timestamp": "2016-12-01T02:16:56.085Z",
+	"event_location": "[-37.868934, 144.840718]"
+}, {
+	"event_timestamp": "2016-12-01T01:16:56.397Z",
+	"event_location": "[-37.868934, 144.840718]"
+}, {
+	"event_timestamp": "2016-12-01T00:16:56.671Z",
+	"event_location": "[-37.9676036, 144.6937649]"
+}, {
+	"event_timestamp": "2016-11-30T23:16:56.930Z",
+	"event_location": "[-37.706488, 145.143097]"
+}, {
+	"event_timestamp": "2016-11-30T22:16:57.197Z",
+	"event_location": "[-37.6592523, 145.0027323]"
+}, {
+	"event_timestamp": "2016-11-30T21:16:57.537Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-30T20:16:57.813Z",
+	"event_location": "[-37.5948741, 145.1711002]"
+}, {
+	"event_timestamp": "2016-11-30T19:16:58.160Z",
+	"event_location": "[-37.697119, 145.160593]"
+}, {
+	"event_timestamp": "2016-11-30T18:16:58.425Z",
+	"event_location": "[-37.691964, 145.0512]"
+}, {
+	"event_timestamp": "2016-11-30T17:16:58.694Z",
+	"event_location": "[-37.9152594, 145.1176314]"
+}, {
+	"event_timestamp": "2016-11-30T16:16:58.976Z",
+	"event_location": "[-37.9001162, 144.6677983]"
+}, {
+	"event_timestamp": "2016-11-30T15:16:59.312Z",
+	"event_location": "[-37.524659, 144.825534]"
+}, {
+	"event_timestamp": "2016-11-30T14:16:59.586Z",
+	"event_location": "[-37.930912, 144.99266]"
+}, {
+	"event_timestamp": "2016-11-30T13:16:59.848Z",
+	"event_location": "[-37.8182347, 144.7862768]"
+}, {
+	"event_timestamp": "2016-11-30T12:17:00.110Z",
+	"event_location": "[-37.7724818, 144.8550644]"
+}, {
+	"event_timestamp": "2016-11-30T11:17:00.379Z",
+	"event_location": "[-37.574735, 145.007066]"
+}, {
+	"event_timestamp": "2016-11-30T10:17:00.645Z",
+	"event_location": "[-37.9738849, 144.6904689]"
+}, {
+	"event_timestamp": "2016-11-30T09:17:00.963Z",
+	"event_location": "[-38.003662, 145.179886]"
+}, {
+	"event_timestamp": "2016-11-30T08:17:01.240Z",
+	"event_location": "[-37.9179974, 145.1626722]"
+}, {
+	"event_timestamp": "2016-11-30T07:17:01.512Z",
+	"event_location": "[-37.9774836, 145.2250729]"
+}, {
+	"event_timestamp": "2016-11-30T06:17:01.783Z",
+	"event_location": "[-37.657996, 144.758499]"
+}, {
+	"event_timestamp": "2016-11-30T05:17:02.104Z",
+	"event_location": "[-38.072144, 145.120442]"
+}, {
+	"event_timestamp": "2016-11-30T04:17:02.364Z",
+	"event_location": "[-37.550939, 145.186187]"
+}, {
+	"event_timestamp": "2016-11-30T03:17:02.648Z",
+	"event_location": "[-37.790873, 145.1066067]"
+}, {
+	"event_timestamp": "2016-11-30T02:17:03.035Z",
+	"event_location": "[-37.772307, 145.217371]"
+}, {
+	"event_timestamp": "2016-11-30T01:17:03.349Z",
+	"event_location": "[-37.8109273, 144.838253]"
+}, {
+	"event_timestamp": "2016-11-30T00:17:03.893Z",
+	"event_location": "[-37.9684054, 145.0474978]"
+}, {
+	"event_timestamp": "2016-11-29T23:17:04.148Z",
+	"event_location": "[-37.9256508, 144.9873765]"
+}, {
+	"event_timestamp": "2016-11-29T22:17:04.409Z",
+	"event_location": "[-37.6301324, 145.0215922]"
+}, {
+	"event_timestamp": "2016-11-29T21:17:04.935Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-29T20:17:05.217Z",
+	"event_location": "[-38.083547, 145.127826]"
+}, {
+	"event_timestamp": "2016-11-29T19:17:05.591Z",
+	"event_location": "[-37.7505651, 144.6990427]"
+}, {
+	"event_timestamp": "2016-11-29T18:17:05.910Z",
+	"event_location": "[-37.80778, 145.096012]"
+}, {
+	"event_timestamp": "2016-11-29T17:17:06.174Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-11-29T16:17:06.433Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-11-29T15:17:07.023Z",
+	"event_location": "[-37.9999737, 145.0754507]"
+}, {
+	"event_timestamp": "2016-11-29T14:17:07.283Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-11-29T13:17:07.536Z",
+	"event_location": "[-37.800542, 145.130226]"
+}, {
+	"event_timestamp": "2016-11-29T12:17:07.827Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-29T11:17:08.384Z",
+	"event_location": "[-37.8317036, 144.8289651]"
+}, {
+	"event_timestamp": "2016-11-29T10:17:08.666Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-29T09:17:08.957Z",
+	"event_location": "[-37.6574262, 144.971801]"
+}, {
+	"event_timestamp": "2016-11-29T08:17:09.482Z",
+	"event_location": "[-37.54869619999999, 144.7351122]"
+}, {
+	"event_timestamp": "2016-11-29T07:17:09.758Z",
+	"event_location": "[-37.9056499, 144.7553803]"
+}, {
+	"event_timestamp": "2016-11-29T06:17:10.117Z",
+	"event_location": "[-37.646144, 144.733149]"
+}, {
+	"event_timestamp": "2016-11-29T05:17:10.397Z",
+	"event_location": "[-37.6751453, 144.9728555]"
+}, {
+	"event_timestamp": "2016-11-29T04:17:10.668Z",
+	"event_location": "[-37.861165, 145.080908]"
+}, {
+	"event_timestamp": "2016-11-29T03:17:10.983Z",
+	"event_location": "[-37.543057, 145.232761]"
+}, {
+	"event_timestamp": "2016-11-29T02:17:11.294Z",
+	"event_location": "[-38.0392052, 145.1179746]"
+}, {
+	"event_timestamp": "2016-11-29T01:17:11.578Z",
+	"event_location": "[-38.0218538, 145.1540274]"
+}, {
+	"event_timestamp": "2016-11-29T00:17:11.852Z",
+	"event_location": "[-37.891754, 145.171691]"
+}, {
+	"event_timestamp": "2016-11-28T23:17:12.137Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-28T22:17:12.408Z",
+	"event_location": "[-37.930912, 144.99266]"
+}, {
+	"event_timestamp": "2016-11-28T21:17:12.678Z",
+	"event_location": "[-37.701418, 144.705836]"
+}, {
+	"event_timestamp": "2016-11-28T20:17:12.962Z",
+	"event_location": "[-37.7090229, 144.7328621]"
+}, {
+	"event_timestamp": "2016-11-28T19:17:13.235Z",
+	"event_location": "[-37.5596292, 145.1609247]"
+}, {
+	"event_timestamp": "2016-11-28T18:17:13.561Z",
+	"event_location": "[-37.942169, 145.145896]"
+}, {
+	"event_timestamp": "2016-11-28T17:17:13.847Z",
+	"event_location": "[-37.666881, 144.9490523]"
+}, {
+	"event_timestamp": "2016-11-28T16:17:14.145Z",
+	"event_location": "[-37.89510500000001, 145.111664]"
+}, {
+	"event_timestamp": "2016-11-28T15:17:14.418Z",
+	"event_location": "[-37.7438852, 144.7218423]"
+}, {
+	"event_timestamp": "2016-11-28T14:17:14.734Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-28T13:17:15.272Z",
+	"event_location": "[-37.5820491, 144.6848713]"
+}, {
+	"event_timestamp": "2016-11-28T12:17:15.534Z",
+	"event_location": "[-37.9684054, 145.0474978]"
+}, {
+	"event_timestamp": "2016-11-28T11:17:16.496Z",
+	"event_location": "[-37.695569, 145.06653]"
+}, {
+	"event_timestamp": "2016-11-28T10:17:16.765Z",
+	"event_location": "[-37.867513, 144.788004]"
+}, {
+	"event_timestamp": "2016-11-28T09:17:17.138Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-28T08:17:17.695Z",
+	"event_location": "[-37.8581462, 144.8731452]"
+}, {
+	"event_timestamp": "2016-11-28T07:17:17.957Z",
+	"event_location": "[-38.0533699, 145.2415051]"
+}, {
+	"event_timestamp": "2016-11-28T06:17:18.232Z",
+	"event_location": "[-37.585299, 144.662468]"
+}, {
+	"event_timestamp": "2016-11-28T05:17:18.486Z",
+	"event_location": "[-37.965888, 145.143011]"
+}, {
+	"event_timestamp": "2016-11-28T04:17:18.754Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-28T03:17:19.284Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-11-28T02:17:19.576Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-28T01:17:20.427Z",
+	"event_location": "[-37.863766, 144.879756]"
+}, {
+	"event_timestamp": "2016-11-28T00:17:20.699Z",
+	"event_location": "[-37.7380044, 145.062126]"
+}, {
+	"event_timestamp": "2016-11-27T23:17:20.977Z",
+	"event_location": "[-37.9454017, 145.2014409]"
+}, {
+	"event_timestamp": "2016-11-27T22:17:21.246Z",
+	"event_location": "[-37.928269, 144.678931]"
+}, {
+	"event_timestamp": "2016-11-27T21:17:21.563Z",
+	"event_location": "[-37.7967358, 144.7529674]"
+}, {
+	"event_timestamp": "2016-11-27T20:17:21.847Z",
+	"event_location": "[-37.629645, 144.678043]"
+}, {
+	"event_timestamp": "2016-11-27T19:17:22.150Z",
+	"event_location": "[-37.5893729, 144.8759406]"
+}, {
+	"event_timestamp": "2016-11-27T18:17:22.450Z",
+	"event_location": "[-37.716207, 145.107696]"
+}, {
+	"event_timestamp": "2016-11-27T17:17:22.713Z",
+	"event_location": "[-37.6233978, 144.9873369]"
+}, {
+	"event_timestamp": "2016-11-27T16:17:22.972Z",
+	"event_location": "[-37.7983705, 145.1295758]"
+}, {
+	"event_timestamp": "2016-11-27T15:17:23.261Z",
+	"event_location": "[-37.708924, 144.96425]"
+}, {
+	"event_timestamp": "2016-11-27T14:17:23.866Z",
+	"event_location": "[-37.92311309999999, 145.1180389]"
+}, {
+	"event_timestamp": "2016-11-27T13:17:24.410Z",
+	"event_location": "[-37.7204657, 145.0118118]"
+}, {
+	"event_timestamp": "2016-11-27T12:17:25.528Z",
+	"event_location": "[-37.715369, 145.12402]"
+}, {
+	"event_timestamp": "2016-11-27T11:17:26.157Z",
+	"event_location": "[-37.683223, 144.916874]"
+}, {
+	"event_timestamp": "2016-11-27T10:17:26.437Z",
+	"event_location": "[-37.5718972, 145.1430101]"
+}, {
+	"event_timestamp": "2016-11-27T09:17:26.697Z",
+	"event_location": "[-37.9999737, 145.0754507]"
+}, {
+	"event_timestamp": "2016-11-27T08:17:27.272Z",
+	"event_location": "[-37.581881, 144.700849]"
+}, {
+	"event_timestamp": "2016-11-27T07:17:27.616Z",
+	"event_location": "[-37.5699087, 145.1142226]"
+}, {
+	"event_timestamp": "2016-11-27T06:17:28.147Z",
+	"event_location": "[-37.761434, 145.221878]"
+}, {
+	"event_timestamp": "2016-11-27T05:17:28.415Z",
+	"event_location": "[-37.8937726, 144.6772014]"
+}, {
+	"event_timestamp": "2016-11-27T04:17:28.684Z",
+	"event_location": "[-37.944913, 145.049747]"
+}, {
+	"event_timestamp": "2016-11-27T03:17:28.956Z",
+	"event_location": "[-37.6185055, 144.8386634]"
+}, {
+	"event_timestamp": "2016-11-27T02:17:29.228Z",
+	"event_location": "[-37.701624, 144.8225833]"
+}, {
+	"event_timestamp": "2016-11-27T01:17:29.965Z",
+	"event_location": "[-37.8692462, 144.9100519]"
+}, {
+	"event_timestamp": "2016-11-27T00:17:30.276Z",
+	"event_location": "[-37.987815, 145.029618]"
+}, {
+	"event_timestamp": "2016-11-26T23:17:31.141Z",
+	"event_location": "[-37.698954, 144.671655]"
+}, {
+	"event_timestamp": "2016-11-26T22:17:31.697Z",
+	"event_location": "[-37.6197866, 144.9877084]"
+}, {
+	"event_timestamp": "2016-11-26T21:17:31.963Z",
+	"event_location": "[-37.800245, 145.101499]"
+}, {
+	"event_timestamp": "2016-11-26T20:17:32.237Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-11-26T19:17:32.497Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-26T18:17:35.555Z",
+	"event_location": "[-37.6608636, 144.7453715]"
+}, {
+	"event_timestamp": "2016-11-26T17:17:35.833Z",
+	"event_location": "[-37.5207864, 144.9490065]"
+}, {
+	"event_timestamp": "2016-11-26T16:17:36.114Z",
+	"event_location": "[-37.556714, 144.75435]"
+}, {
+	"event_timestamp": "2016-11-26T15:17:36.457Z",
+	"event_location": "[-38.0237945, 145.1741314]"
+}, {
+	"event_timestamp": "2016-11-26T14:17:36.747Z",
+	"event_location": "[-37.8738663, 145.028927]"
+}, {
+	"event_timestamp": "2016-11-26T13:17:37.193Z",
+	"event_location": "[-37.575216, 144.9464263]"
+}, {
+	"event_timestamp": "2016-11-26T12:17:37.658Z",
+	"event_location": "[-37.760772, 144.915495]"
+}, {
+	"event_timestamp": "2016-11-26T11:17:37.923Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-26T10:17:38.530Z",
+	"event_location": "[-37.8319255, 144.6779069]"
+}, {
+	"event_timestamp": "2016-11-26T09:17:38.842Z",
+	"event_location": "[-37.959537, 145.039582]"
+}, {
+	"event_timestamp": "2016-11-26T08:17:39.148Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-11-26T07:17:39.413Z",
+	"event_location": "[-37.803309, 144.681799]"
+}, {
+	"event_timestamp": "2016-11-26T06:17:39.690Z",
+	"event_location": "[-38.012379, 145.172817]"
+}, {
+	"event_timestamp": "2016-11-26T05:17:39.951Z",
+	"event_location": "[-37.772673, 145.049366]"
+}, {
+	"event_timestamp": "2016-11-26T04:17:40.226Z",
+	"event_location": "[-37.5339221, 144.6700944]"
+}, {
+	"event_timestamp": "2016-11-26T03:17:40.775Z",
+	"event_location": "[-37.5936969, 144.9178025]"
+}, {
+	"event_timestamp": "2016-11-26T02:17:41.054Z",
+	"event_location": "[-37.8668543, 144.9127016]"
+}, {
+	"event_timestamp": "2016-11-26T01:17:41.319Z",
+	"event_location": "[-37.649951, 145.104959]"
+}, {
+	"event_timestamp": "2016-11-26T00:17:41.589Z",
+	"event_location": "[-37.639683, 145.1790786]"
+}, {
+	"event_timestamp": "2016-11-25T23:17:41.849Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-11-25T22:17:42.478Z",
+	"event_location": "[-37.630559, 144.7203004]"
+}, {
+	"event_timestamp": "2016-11-25T21:17:42.767Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-11-25T20:17:43.032Z",
+	"event_location": "[-37.953005, 145.191307]"
+}, {
+	"event_timestamp": "2016-11-25T19:17:43.345Z",
+	"event_location": "[-37.81836819999999, 145.0200259]"
+}, {
+	"event_timestamp": "2016-11-25T18:17:43.606Z",
+	"event_location": "[-37.930912, 144.99266]"
+}, {
+	"event_timestamp": "2016-11-25T17:17:44.134Z",
+	"event_location": "[-37.633455, 144.889777]"
+}, {
+	"event_timestamp": "2016-11-25T16:17:44.524Z",
+	"event_location": "[-37.62407839999999, 145.1064526]"
+}, {
+	"event_timestamp": "2016-11-25T15:17:44.801Z",
+	"event_location": "[-37.782564, 144.87773]"
+}, {
+	"event_timestamp": "2016-11-25T14:17:45.103Z",
+	"event_location": "[-37.862098, 145.248941]"
+}, {
+	"event_timestamp": "2016-11-25T13:17:45.398Z",
+	"event_location": "[-38.0862473, 145.2043658]"
+}, {
+	"event_timestamp": "2016-11-25T12:17:45.960Z",
+	"event_location": "[-37.532865, 145.067786]"
+}, {
+	"event_timestamp": "2016-11-25T11:17:46.229Z",
+	"event_location": "[-37.77566100000001, 145.21871]"
+}, {
+	"event_timestamp": "2016-11-25T10:17:46.577Z",
+	"event_location": "[-37.6553239, 145.1080256]"
+}, {
+	"event_timestamp": "2016-11-25T09:17:46.841Z",
+	"event_location": "[-37.555227, 144.710916]"
+}, {
+	"event_timestamp": "2016-11-25T08:17:47.108Z",
+	"event_location": "[-37.6765523, 144.7281552]"
+}, {
+	"event_timestamp": "2016-11-25T07:17:47.796Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-25T06:17:48.093Z",
+	"event_location": "[-37.9684054, 145.0474978]"
+}, {
+	"event_timestamp": "2016-11-25T05:17:48.350Z",
+	"event_location": "[-38.100105, 145.200697]"
+}, {
+	"event_timestamp": "2016-11-25T04:17:49.065Z",
+	"event_location": "[-37.745962, 145.163254]"
+}, {
+	"event_timestamp": "2016-11-25T03:17:49.327Z",
+	"event_location": "[-37.6048226, 145.213094]"
+}, {
+	"event_timestamp": "2016-11-25T02:17:49.592Z",
+	"event_location": "[-37.756052, 144.921211]"
+}, {
+	"event_timestamp": "2016-11-25T01:17:49.879Z",
+	"event_location": "[-37.8763997, 145.0443482]"
+}, {
+	"event_timestamp": "2016-11-25T00:17:50.261Z",
+	"event_location": "[-37.8044156, 145.1460532]"
+}, {
+	"event_timestamp": "2016-11-24T23:17:50.543Z",
+	"event_location": "[-37.784059, 145.197925]"
+}, {
+	"event_timestamp": "2016-11-24T22:17:50.811Z",
+	"event_location": "[-37.5450169, 145.2573473]"
+}, {
+	"event_timestamp": "2016-11-24T21:17:51.627Z",
+	"event_location": "[-37.93445699999999, 145.17895]"
+}, {
+	"event_timestamp": "2016-11-24T20:17:51.901Z",
+	"event_location": "[-37.522665, 144.812382]"
+}, {
+	"event_timestamp": "2016-11-24T19:17:52.197Z",
+	"event_location": "[-37.574531, 144.709363]"
+}, {
+	"event_timestamp": "2016-11-24T18:17:52.520Z",
+	"event_location": "[-37.531549, 145.180262]"
+}, {
+	"event_timestamp": "2016-11-24T17:17:52.785Z",
+	"event_location": "[-37.9713059, 145.1092337]"
+}, {
+	"event_timestamp": "2016-11-24T16:17:53.064Z",
+	"event_location": "[-38.168465, 145.086283]"
+}, {
+	"event_timestamp": "2016-11-24T15:17:53.321Z",
+	"event_location": "[-37.9376062, 145.2467937]"
+}, {
+	"event_timestamp": "2016-11-24T14:17:53.654Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-24T13:17:54.801Z",
+	"event_location": "[-37.7674628, 145.1221234]"
+}, {
+	"event_timestamp": "2016-11-24T12:17:55.327Z",
+	"event_location": "[-37.8940545, 145.0950769]"
+}, {
+	"event_timestamp": "2016-11-24T11:17:55.947Z",
+	"event_location": "[-37.8126492, 144.9601311]"
+}, {
+	"event_timestamp": "2016-11-24T10:17:56.245Z",
+	"event_location": "[-37.69888, 144.763199]"
+}, {
+	"event_timestamp": "2016-11-24T09:17:56.528Z",
+	"event_location": "[-37.807038, 145.1993709]"
+}, {
+	"event_timestamp": "2016-11-24T08:17:56.799Z",
+	"event_location": "[-37.5753964, 145.0328119]"
+}, {
+	"event_timestamp": "2016-11-24T07:17:57.097Z",
+	"event_location": "[-37.7481131, 144.7949235]"
+}, {
+	"event_timestamp": "2016-11-24T06:17:57.400Z",
+	"event_location": "[-37.5320213, 144.8848282]"
+}, {
+	"event_timestamp": "2016-11-24T05:17:57.671Z",
+	"event_location": "[-37.9360865, 144.9971902]"
+}, {
+	"event_timestamp": "2016-11-24T04:17:57.949Z",
+	"event_location": "[-37.8035857, 144.7562935]"
+}, {
+	"event_timestamp": "2016-11-24T03:17:58.244Z",
+	"event_location": "[-37.773137, 144.902318]"
+}, {
+	"event_timestamp": "2016-11-24T02:17:58.585Z",
+	"event_location": "[-37.6277525, 145.1674241]"
+}, {
+	"event_timestamp": "2016-11-24T01:17:58.854Z",
+	"event_location": "[-37.6092259, 145.0369005]"
+}, {
+	"event_timestamp": "2016-11-24T00:17:59.126Z",
+	"event_location": "[-37.6031941, 145.0648432]"
+}, {
+	"event_timestamp": "2016-11-23T23:17:59.709Z",
+	"event_location": "[-37.7352726, 144.9757365]"
+}, {
+	"event_timestamp": "2016-11-23T22:18:00.232Z",
+	"event_location": "[-37.700196, 145.048943]"
+}, {
+	"event_timestamp": "2016-11-23T21:18:00.582Z",
+	"event_location": "[-38.0080933, 145.1122076]"
+}, {
+	"event_timestamp": "2016-11-23T20:18:01.129Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-23T19:18:01.415Z",
+	"event_location": "[-37.581127, 145.245507]"
+}, {
+	"event_timestamp": "2016-11-23T18:18:01.728Z",
+	"event_location": "[-37.930912, 144.99266]"
+}, {
+	"event_timestamp": "2016-11-23T17:18:01.992Z",
+	"event_location": "[-37.869063, 145.161304]"
+}, {
+	"event_timestamp": "2016-11-23T16:18:02.264Z",
+	"event_location": "[-37.6843066, 145.0615367]"
+}, {
+	"event_timestamp": "2016-11-23T15:18:02.536Z",
+	"event_location": "[-37.8581462, 144.8731452]"
+}, {
+	"event_timestamp": "2016-11-23T14:18:03.177Z",
+	"event_location": "[-37.862075, 145.099776]"
+}, {
+	"event_timestamp": "2016-11-23T13:18:03.469Z",
+	"event_location": "[-37.7528557, 145.1378398]"
+}, {
+	"event_timestamp": "2016-11-23T12:18:03.824Z",
+	"event_location": "[-37.5984731, 145.1880791]"
+}, {
+	"event_timestamp": "2016-11-23T11:18:04.442Z",
+	"event_location": "[-37.6014059, 144.7301681]"
+}, {
+	"event_timestamp": "2016-11-23T10:18:04.705Z",
+	"event_location": "[-37.800216, 145.087995]"
+}, {
+	"event_timestamp": "2016-11-23T09:18:05.378Z",
+	"event_location": "[-37.697675, 145.050517]"
+}, {
+	"event_timestamp": "2016-11-23T08:18:05.912Z",
+	"event_location": "[-38.0211853, 145.0965589]"
+}, {
+	"event_timestamp": "2016-11-23T07:18:06.248Z",
+	"event_location": "[-37.6495099, 144.9495686]"
+}, {
+	"event_timestamp": "2016-11-23T06:18:06.592Z",
+	"event_location": "[-37.7030103, 144.9348837]"
+}, {
+	"event_timestamp": "2016-11-23T05:18:07.142Z",
+	"event_location": "[-37.5241912, 145.1025515]"
+}, {
+	"event_timestamp": "2016-11-23T04:18:07.410Z",
+	"event_location": "[-37.534223, 144.771412]"
+}, {
+	"event_timestamp": "2016-11-23T03:18:07.709Z",
+	"event_location": "[-37.9177511, 144.7838261]"
+}, {
+	"event_timestamp": "2016-11-23T02:18:08.247Z",
+	"event_location": "[-37.739933, 144.692414]"
+}, {
+	"event_timestamp": "2016-11-23T01:18:08.834Z",
+	"event_location": "[-37.7011988, 145.1982857]"
+}, {
+	"event_timestamp": "2016-11-23T00:18:09.096Z",
+	"event_location": "[-38.1233041, 144.694507]"
+}, {
+	"event_timestamp": "2016-11-22T23:18:09.371Z",
+	"event_location": "[-37.649199, 145.0515184]"
+}, {
+	"event_timestamp": "2016-11-22T22:18:09.684Z",
+	"event_location": "[-37.77231099999999, 144.843136]"
+}, {
+	"event_timestamp": "2016-11-22T21:18:10.535Z",
+	"event_location": "[-37.8302526, 144.9322053]"
+}, {
+	"event_timestamp": "2016-11-22T20:18:10.892Z",
+	"event_location": "[-37.6836781, 144.6660573]"
+}, {
+	"event_timestamp": "2016-11-22T19:18:11.169Z",
+	"event_location": "[-37.911829, 145.115423]"
+}, {
+	"event_timestamp": "2016-11-22T18:18:11.451Z",
+	"event_location": "[-37.8332585, 144.946701]"
+}, {
+	"event_timestamp": "2016-11-22T17:18:11.994Z",
+	"event_location": "[-37.7531357, 145.2219636]"
+}, {
+	"event_timestamp": "2016-11-22T16:18:12.270Z",
+	"event_location": "[-37.8480999, 144.9789777]"
+}, {
+	"event_timestamp": "2016-11-22T15:18:12.846Z",
+	"event_location": "[-38.047534, 145.111365]"
+}]
