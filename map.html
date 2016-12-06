@@ -72,17 +72,27 @@
     <h1>Australia</h1>
     <h2>Recent Opens</h2>
   </div>
-  <div id="fixed-top-right">
-    <!--<button data-name="Gosford" data-state="nsw" data-coord="[151.33701, -33.421090237]" data-zoom="9000">Go to Gosford</button><br />-->
-    <!--<button data-name="Hobart" data-state="nsw" data-coord="[146.60430908, -42.08981529]" data-zoom="9000">Go to Hobart</button><br />-->
-    <button data-name="Sydney" data-state="nsw" data-coord="[151.21024132, -33.87255348]" data-zoom="9000">Go to Sydney</button><br />
-    <button data-name="Melbourne" data-state="vic" data-coord="[144.96327999999994,-36.814107]" data-zoom="8000">Go to Melbourne</button><br />
-    <!--<button data-name="Perth" data-state="wa" data-coord="[121.3824462890625, -30.429137512470803]" data-zoom="3000">Go to Perth</button><br />-->
-    <button data-name="Australia" data-state="" data-coord="[135.049,-28.462]" data-zoom="1000">All Australia</button><br />
-  </div>
 <script src="d3.v3.min.js"></script>
 <script src="topojson.v1.min.js"></script>
 <script>
+
+var carouselPlaces = [
+  {
+    "name": "Sydney",
+    "state": "nsw",
+    "coord": [151.210241, -33.872553],
+    "zoom": 8000
+  }, {
+    "name": "Melbourne",
+    "state": "vic",
+    "coord": [144.963279, -36.814107],
+    "zoom": 8000
+  }, {
+    "name": "Australia",
+    "coord": [135.049,-28.462],
+    "zoom": 8000
+  }
+]
 
 var width = window.innerWidth
 
@@ -143,8 +153,6 @@ var inc = 0
 d3.json('australia-states.json', function(err, aus) {
   d3.json("opens.json", function(data){
     {
-      buttons = d3.selectAll('button')
-
       states = svg.append('g')
         .selectAll('path')
         .data(topojson.feature(aus, aus.objects.states).features)
@@ -173,8 +181,6 @@ d3.json('australia-states.json', function(err, aus) {
 
       projection.scale(currentScale)
 
-      // Go to a location
-      d3.selectAll('button').on('click', clickButton)
     };
   });
 })
@@ -222,17 +228,6 @@ function fadeInEvents() {
       return radiusScale(currentScale); })
 }
 
-// Events
-function clickButton() {
-  el = d3.select(this)
-  // D3 doesn't have event delegation
-  if (el.classed('active')) return
-
-  d3.selectAll('button').classed('active', false)
-  el.classed('active', true)
-  goTo(JSON.parse(this.dataset.coord), this.dataset.state, this.dataset.zoom, this.dataset.name)
-}
-
 function minutesSinceDateString(fromDate) {
   var timeNow = new Date()
   var diff = timeNow - Date.parse(fromDate);
@@ -245,9 +240,9 @@ function geoParser(goeLocationString) {
 }
 
 function spin() {
-  index = inc % buttons[0].length
-  dataset = buttons[0][index].dataset
-  goTo(JSON.parse(dataset.coord), dataset.state, dataset.zoom, dataset.name)
+  index = inc % carouselPlaces.length
+  dataset = carouselPlaces[index]
+  goTo(dataset.coord, dataset.state, dataset.zoom, dataset.name)
   inc++
 }
 
